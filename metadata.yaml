@@ -38,6 +38,8 @@ creator:
     gutenberg_agent_id: '31685'
     url: http://www.gutenberg.org/2009/agents/31685
 description: Adaption of "Az ördög" by Molnar
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25947#The-Devil--A-Tragedy-of-the-Heart-and-Conscience
 gutenberg_issued: '2008-07-02'
 gutenberg_type: Text
 identifiers:
